@@ -8,7 +8,7 @@
 <a href="https://codepen.io/SilviaElenDev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SilviaElenDev-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/SilviaElenDev" target="_blank">
+<a href="https://linkedin.com/in/silvia-elen-dev-992677271/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SilviaElenDev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/SilviaElenDev" target="_blank">
