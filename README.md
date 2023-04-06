@@ -1,11 +1,11 @@
 ![Linkedin (1)](https://user-images.githubusercontent.com/129884593/230432323-cd1e048d-28e8-49f8-9abc-6a5c3ee6ba4f.png)
 
 ## :dizzy: About Me
- <p>Hi,there </br>
+ <p>:wave: Hi,there </br>
  :grin: I'm Silvia Elen, I'm Brazilian and I'm 19 years old;</br>
  :nerd_face: I'm starting to study programming and English;</br>
  :star_struck: My goal is to get my first job in the field;</br>
- :100: Here on my profile and on my other networks you will be able to follow all my trajectory and achievements.
+ :iphone: Here on my profile and on my other networks you will be able to follow all my trajectory and achievements.
  <p/>
 
   
@@ -41,11 +41,11 @@
 <a href="https://instagram.com/SilviaElenDev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-SilviaElenDev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://www.tiktok.com/@silviaelendev?lang=pt-BR" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-SilviaElenDev-05122A?style=flat&logo=tiktok"youtube"/>
+</a>
 <a href="https://youtube.com/SilviaElenDev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-SilviaElenDev-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-  <a href="https://www.tiktok.com/@silviaelendev?lang=pt-BR" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-SilviaElenDev-05122A?style=flat&logo=tiktok"youtube"/>
 </a>
 </p>
 
