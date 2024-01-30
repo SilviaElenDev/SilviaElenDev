@@ -1,4 +1,4 @@
-![Linkedin (1)](https://user-images.githubusercontent.com/129884593/230432323-cd1e048d-28e8-49f8-9abc-6a5c3ee6ba4f.png)
+<img src="https://github.com/SilviaElenDev/SilviaElenDev/assets/129884593/a6e7b258-a857-4d6f-9d73-d330e19e3bfc" height="500" width="100%">
 
 ## :dizzy: About Me
  <p>:wave: Hi,there </br>
