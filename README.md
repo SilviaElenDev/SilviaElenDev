@@ -1,4 +1,4 @@
-<img src="https://github.com/SilviaElenDev/SilviaElenDev/assets/129884593/a6e7b258-a857-4d6f-9d73-d330e19e3bfc" height="500" width="100%">
+![Linkedin (2)](https://github.com/SilviaElenDev/SilviaElenDev/assets/129884593/646330cc-907d-4f40-9a20-48c82c8d5539)
 
 ## :dizzy: About Me
  <p>:wave: Hi,there </br>
